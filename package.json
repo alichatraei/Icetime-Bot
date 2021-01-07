@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1",
     "telegraf": "^3.38.0"
   }
 }
